@@ -1,0 +1,49 @@
+
+body
+{
+    background-color: #24353f;;
+}
+hr
+{
+    background-color: #17a2b8;
+}
+
+.group {
+    box-shadow: -10px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.tablebody tr a
+{
+   text-decoration: none;
+   color: white;
+}
+
+.butttonlink
+{
+    text-decoration: none;
+}
+
+input,
+textarea {
+    background-color: transparent !important;
+    color: #fff !important;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: rgb(182, 182, 182) !important;
+}
+
+input:focus,
+textarea:focus {
+    box-shadow: 0 0 5px 0px #17a2b8 !important;
+  
+} 
+
+.fontcolor {
+    color: #17a2b8;
+    
+}
+.crudname
+{
+    font-size: 23px;
+}
